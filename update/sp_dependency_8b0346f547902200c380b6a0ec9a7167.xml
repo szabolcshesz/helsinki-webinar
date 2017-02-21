@@ -4,6 +4,7 @@
         <module>ngMaterial</module>
         <name>ngMaterial</name>
         <page_load>true</page_load>
+        <sp_portals/>
         <sys_class_name>sp_dependency</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-06-29 16:09:22</sys_created_on>

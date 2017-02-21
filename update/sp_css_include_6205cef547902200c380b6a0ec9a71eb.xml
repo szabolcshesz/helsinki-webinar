@@ -7,7 +7,7 @@
         <sys_class_name>sp_css_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-06-29 16:18:16</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6205cef547902200c380b6a0ec9a71eb</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>angular-material.min.css</sys_name>
